@@ -9,7 +9,7 @@ import { Subscription } from 'rxjs';
 })
 export class HeaderComponent implements OnInit {
   title: string = 'Task Tracker';
-  showAddTask = true;
+  showAddTask = false;
   subscription: Subscription | undefined;
   constructor(private readonly uiService: UiService) {
     this.subscription = this.uiService
