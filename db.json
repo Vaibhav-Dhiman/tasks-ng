@@ -23,6 +23,18 @@
       "text": "Food Shopping",
       "day": "May 5th at 2:30pm",
       "reminder": false
+    },
+    {
+      "text": "Eat Pizza",
+      "day": "March 11th at 12.34pm",
+      "reminder": false,
+      "id": 8
+    },
+    {
+      "text": "Going to Wedding",
+      "day": "Feb 27th 2023 ",
+      "reminder": false,
+      "id": 9
     }
   ]
 }
